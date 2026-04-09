@@ -1,4 +1,4 @@
-🔐 Escape Room — A Fuga de Girotto
+# 🔐 Escape Room — A Fuga de Girotto
 A Fuga de Girotto é um jogo educativo interativo desenvolvido em HTML5, CSS3 e JavaScript. O objetivo principal é ensinar e reforçar conceitos de Cálculo II, especificamente a resolução de integrais, através de uma narrativa de escape room.
 
 📖 História
