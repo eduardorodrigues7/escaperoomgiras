@@ -44,7 +44,7 @@ Google Fonts: Tipografias Orbitron e Share Tech Mono para um visual cyberpunk/te
 ## 📁 Estrutura do Projeto
 /EscapeRoomGirotto
 -index.html : Estrutura principal e telas de introdução/vitória
--style.css: : Design, animações e efeitos visuais
+-style.css : Design, animações e efeitos visuais
 -data.js : Banco de dados de fases, objetos e questões
 -game.js : Motor do jogo (engine), sons e lógica de navegação
 
