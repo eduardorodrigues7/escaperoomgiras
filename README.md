@@ -42,11 +42,11 @@ JavaScript (Vanilla): Lógica do motor do jogo, manipulação de DOM e processam
 Google Fonts: Tipografias Orbitron e Share Tech Mono para um visual cyberpunk/tech
 
 ## 📁 Estrutura do Projeto
-/escape-room-v8
--index.html   # Estrutura principal e telas de introdução/vitória
--style.css    # Design, animações e efeitos visuais
--data.js      # Banco de dados de fases, objetos e questões
--game.js      # Motor do jogo (engine), sons e lógica de navegação
+/EscapeRoomGirotto
+-index.html : Estrutura principal e telas de introdução/vitória
+-style.css: : Design, animações e efeitos visuais
+-data.js : Banco de dados de fases, objetos e questões
+-game.js : Motor do jogo (engine), sons e lógica de navegação
 
 ## 🎮 Como Jogar
 Abra o arquivo index.html em qualquer navegador moderno.
