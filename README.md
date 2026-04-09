@@ -7,13 +7,13 @@ Sexta-feira, 21h03. O campus do CESUPA está silencioso. O professor Pedro Girot
 ## 🎯 Objetivo Pedagógico
 O jogo foi projetado como uma ferramenta de aprendizagem ativa, onde o progresso depende da resolução correta de 12 integrais distribuídas em 4 fases temáticas. Cada fase introduz um conceito fundamental:
 
-Fase 1: Sala dos Professores – Foco em Integrais Indefinidas e a Regra da Potência.
+### Fase 1: Sala dos Professores – Foco em Integrais Indefinidas e a Regra da Potência.
 
-Fase 2: Corredor Principal – Introdução à Integração por Substituição (u-sub).
+### Fase 2: Corredor Principal – Introdução à Integração por Substituição (u-sub).
 
-Fase 3: Elevador Central – Aplicação de Integração por Partes.
+###Fase 3: Elevador Central – Aplicação de Integração por Partes.
 
-Fase 4: Portão Principal – Resolução de Integrais Definidas (Teorema Fundamental do Cálculo).
+### Fase 4: Portão Principal – Resolução de Integrais Definidas (Teorema Fundamental do Cálculo).
 
 ## 🚀 Funcionalidades
 Ambiente Interativo: Explore as salas clicando em objetos como quadros, laptops e mochilas para encontrar itens e pistas.
@@ -22,7 +22,7 @@ Sistema de Tutoria: Uma "Caderneta/Diário" integrada fornece fórmulas e exempl
 
 Feedback em Tempo Real: O terminal de respostas valida os cálculos e oferece passos sugeridos para ajudar na resolução.
 
-Mecânicas de Jogo:
+### Mecânicas de Jogo:
 
 Inventário: Colete itens essenciais como pen-drives e lanternas para avançar.
 
