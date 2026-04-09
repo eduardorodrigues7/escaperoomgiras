@@ -11,7 +11,7 @@ O jogo foi projetado como uma ferramenta de aprendizagem ativa, onde o progresso
 
 ### Fase 2: Corredor Principal – Introdução à Integração por Substituição (u-sub).
 
-###Fase 3: Elevador Central – Aplicação de Integração por Partes.
+### Fase 3: Elevador Central – Aplicação de Integração por Partes.
 
 ### Fase 4: Portão Principal – Resolução de Integrais Definidas (Teorema Fundamental do Cálculo).
 
